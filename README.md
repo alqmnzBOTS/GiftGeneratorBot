@@ -57,3 +57,14 @@ BOT_TOKEN=ваш_токен_бота
 OPENAI_API_KEY=ваш_api_ключ_openai
 4. Запустите бота:
 python main.py
+---
+topics: 
+  - python
+  - telegram-bot
+  - openai-api
+  - gift-generator
+  - aiogram
+  - portfolio-project
+  - ai-chatbot
+  - python-bot
+---
